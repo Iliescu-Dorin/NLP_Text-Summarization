@@ -1,0 +1,10 @@
+numpy~=1.20.1
+pandas~=1.2.4
+scikit-learn~=0.24.1
+scipy~=1.6.2
+
+gensim~=3.8.3
+nltk~=3.6.1
+textblob~=0.15.3
+flask~=1.1.2
+rouge~=1.0.0
